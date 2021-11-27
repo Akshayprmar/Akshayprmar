@@ -59,4 +59,68 @@ async function abc () {
 }
 console.log('****', abc()) //Promise { <pending> }
 ```
+Other Topics
+
+```
+Event loop
+concurrency
+io
+close
+non blocking io
+API
+protocol
+url Desiging
+Hosting
+promise and .all and fail cases
+Object key finding Complexity - O(N)
+HATEOAS
+
+From <https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api> 
+
+
+
+Indexing
+DynamoDB
+Global Positionining Indexing
+Single Table Desiging
+IIFE
+Micro Service Architecture
+
+
+-OLAP and OLDP
+-ideapotenstional such as GET,PUT,DELETE
+- API Standard Rules
+-Optimize API RESPONSE
+   - DATABASE
+-Caching
+
+js
+node js
+react js
+typescript
+docker
+aws
+tdd- jest/jasmine/karma- equivalent
+scrum environment
+postgresql- DB
+hands on on ds/algos
+ 
+ 
+no sql db- mongo, dynamo
+radis cache
+kafka/ rabbit/ kinesis- msg streaming services
+vue js- good to have
+ 
+ 
+good to know jenkins and kubernetes
+ 
+ 
+services
+deployment
+unit test cases- write own
+closures/ scope- js
+js is oops? it support oops
+current trends in js
+current ecma script standard
+```
 
