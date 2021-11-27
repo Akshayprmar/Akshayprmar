@@ -48,4 +48,15 @@ function findPair(array,target){
 
 findPair([1,2,3,4,5,6,7,9],10)
 ```
+Q:
+```
+const promise1 = Promise.resolve(3)
+
+async function abc () {
+  let data = await promise1
+  console.log(data) //3
+  return data
+}
+console.log('****', abc()) //Promise { <pending> }
+```
 
